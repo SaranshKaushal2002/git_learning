@@ -1,3 +1,5 @@
 # git_learning
-This is my first Git Repository
+This is my first Git Repository.
+<br>
 Author -Saransh Kaushal
+
